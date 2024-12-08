@@ -7,7 +7,8 @@ This application can be used to play mp3 songs. The key features in this are as 
 * User can also add some songs to the currently playing song list which will be temporary.
 * It also has search functionality which will the search the song and give the desired result.
 * It contains a interactive UI which allows user to control the songs.
-  ##ScreenShots :-
+  
+##Screenshot :-
    ![Screenshot_20241208_122209](https://github.com/user-attachments/assets/2fa6fade-554a-4aa8-a30c-53a8ffc7b158)
   ![Screenshot_20241208_122141](https://github.com/user-attachments/assets/6104c64b-3388-43f2-9d3c-abd8c9720365)
   ![Screenshot_20241208_122123](https://github.com/user-attachments/assets/4d02991c-54ec-4986-8019-2717a26f18f3)
