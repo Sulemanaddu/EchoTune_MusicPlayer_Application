@@ -26,3 +26,18 @@ These features are implemented with the help of :-
 3. Viewpager
 4. SQLite Database
 5. Adapters.
+
+   Hardware Specification:  
+•	RAM:4 GB of RAM 
+•	HDD: 500GB or high 
+
+Software specification:  
+•	OS: MS window  
+•	Software: Android Studio
+•	Database: SQL Lite
+ 
+TECHNOLOGY USED: 
+•	 Front-end: xml 
+•	 Backend: Java 
+ Operating system: Windows 10
+
